@@ -26,7 +26,8 @@ public class PlayerController : MonoBehaviour
     public GameObject Restartpanel;
     public float rotationSpeed;
     public GameObject winpanel;
-    public static int countDownStartValue = 3;    
+    [SerializeField]
+    public static int countDownStartValue = 60;    
     public Text time;
 
     public float speed;
@@ -48,7 +49,8 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody>();
         Anim = GetComponentInChildren<Animator>();
         count = 0;
-        highScoreView.text = PlayerPrefs.GetInt("HighScore").ToString();
+        highscore = PlayerPrefs.GetInt("HighScore");
+        highScoreView.text = highscore.ToString();
     } 
     void FixedUpdate()
     {
@@ -96,11 +98,37 @@ public class PlayerController : MonoBehaviour
             winpanel.SetActive(true);
             audioSource.PlayOneShot(winnersound, 0.7F);
             CancelInvoke("SetCountText");
+            for (int i = 0; i < ScoreManager.instance.sd.scores.Count; i++)
+            {
+
+                if (ScoreManager.instance.sd.scores[i].nam.Equals(Constants.PlayerName))
+                {
+
+                    ScoreManager.instance.sd.scores[i].score = count;
+                    ScoreManager.instance.SaveScore();
+                    return;
+                }
+
+            }
+            ScoreManager.instance.AddScore(new Score(Constants.PlayerName, count));
         }
-        else 
+         else
         {
             Restartpanel.SetActive(true);
             CancelInvoke("SetCountText");
+            for (int i = 0; i < ScoreManager.instance.sd.scores.Count; i++)
+            {
+
+                if (ScoreManager.instance.sd.scores[i].nam.Equals(Constants.PlayerName))
+                {
+
+                    ScoreManager.instance.sd.scores[i].score = count;
+                    ScoreManager.instance.SaveScore();
+                    return;
+                }
+
+            }
+            ScoreManager.instance.AddScore(new Score(Constants.PlayerName, count));
         }
     }
     public void HighScore()
@@ -115,12 +143,10 @@ public class PlayerController : MonoBehaviour
     public static void DoubleScore()
     {
         count *= 2;
-
     }
-
-    public static void AdTime()
+    public static void AddExtraTime()
     {
-        countDownStartValue += 20;
+
     }
 }
 

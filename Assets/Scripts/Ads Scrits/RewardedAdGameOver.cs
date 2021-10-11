@@ -21,7 +21,6 @@ public class RewardedAdGameOver : MonoBehaviour, IUnityAdsLoadListener, IUnityAd
         LoadAd();
 
     }
-
     // Load content to the Ad Unit:
     public void LoadAd()
     {
@@ -61,9 +60,10 @@ public class RewardedAdGameOver : MonoBehaviour, IUnityAdsLoadListener, IUnityAd
         {
             Debug.Log("Unity Ads Rewarded Ad Completed");
             // Grant a reward.
-            PlayerController.AdTime();
-            FindObjectOfType<GameOver>().GetComponent<GameOver>().OnClickAd();
-
+            PlayerController.countDownStartValue=20;
+            FindObjectOfType<PlayerController>().GetComponent<PlayerController>().SetCountText();
+            //countText.text = PlayerController.count.ToString();
+            FindObjectOfType<TimeReward>().GetComponent<TimeReward>().TimeAdd();
             // Load another ad:
             Advertisement.Load(_adUnitId, this);
         }

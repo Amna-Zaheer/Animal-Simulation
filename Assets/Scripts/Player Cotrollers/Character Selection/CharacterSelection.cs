@@ -49,4 +49,11 @@ public class CharacterSelection : MonoBehaviour
     {
         PlayerPrefs.SetInt("CharacterSelected", index); 
     }
+
+    public void RestartScene()
+    {
+        PlayerController.count = 0;
+        PlayerController.countDownStartValue = 60;
+
+    }
 }
