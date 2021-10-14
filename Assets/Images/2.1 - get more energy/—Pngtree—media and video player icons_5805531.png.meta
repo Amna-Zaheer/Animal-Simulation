@@ -1,0 +1,1172 @@
+fileFormatVersion: 2
+guid: 06572c427d0f6d64b940d6ad2ecd4586
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6866092987918019641
+    second: sound
+  - first:
+      213: -5608604809384529237
+    second: soundoff
+  - first:
+      213: 2634991675551267063
+    second: soundon
+  - first:
+      213: -4928836997091864549
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_8"
+  - first:
+      213: 419208002668052775
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_9"
+  - first:
+      213: 4895094557894670041
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_10"
+  - first:
+      213: -7050489432279692046
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_11"
+  - first:
+      213: 5701797753048747279
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_12"
+  - first:
+      213: 1027197679001613575
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_13"
+  - first:
+      213: -4260594538732025013
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_14"
+  - first:
+      213: -1393487796898230189
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_15"
+  - first:
+      213: 8926615215581160780
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_16"
+  - first:
+      213: 2688935643823704723
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_17"
+  - first:
+      213: -2737901759364542821
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_18"
+  - first:
+      213: 3889180709020937231
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_19"
+  - first:
+      213: 310385769367446631
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_20"
+  - first:
+      213: -8161216693752870137
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_21"
+  - first:
+      213: 669431557664829168
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_22"
+  - first:
+      213: 2077322694242478116
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_23"
+  - first:
+      213: 144978891014727646
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_24"
+  - first:
+      213: 7413022354305703592
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_25"
+  - first:
+      213: -5368817816388046679
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_26"
+  - first:
+      213: -4326619218682798436
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_28"
+  - first:
+      213: -9021355178091572181
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_29"
+  - first:
+      213: -677924576973421163
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_30"
+  - first:
+      213: -342499848151578944
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_31"
+  - first:
+      213: -3874892707526146843
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_32"
+  - first:
+      213: 7582925720026348332
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_33"
+  - first:
+      213: 8496830038865028231
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_34"
+  - first:
+      213: 3419366428028881145
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_35"
+  - first:
+      213: 1134019220275307756
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_36"
+  - first:
+      213: 2070458432294479111
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_37"
+  - first:
+      213: 7567634152771410782
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_38"
+  - first:
+      213: 1620590223359281456
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_39"
+  - first:
+      213: -3351828783832375830
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_40"
+  - first:
+      213: 8977990639385161991
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_41"
+  - first:
+      213: 8651838531246049590
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_42"
+  - first:
+      213: 162548226309993536
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_43"
+  - first:
+      213: 1738522507767969794
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_44"
+  - first:
+      213: -2754351900698048846
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_45"
+  - first:
+      213: 8412500255551370344
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_46"
+  - first:
+      213: 4770163025027522629
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_47"
+  - first:
+      213: 4938296656806120694
+    second: "\u2014Pngtree\u2014media and video player icons_5805531_48"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sound
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 3801
+        width: 635
+        height: 406
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c67a3c133494f50800000000000000
+      internalID: 6866092987918019641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soundoff
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 3788
+        width: 534
+        height: 432
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2761b34ab3a22b0800000000000000
+      internalID: -5608604809384529237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soundon
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 3786
+        width: 615
+        height: 422
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f83857d7fe519420800000000000000
+      internalID: 2634991675551267063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_8"
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 3788
+        width: 392
+        height: 412
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1059808dd0499bb0800000000000000
+      internalID: -4928836997091864549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_9"
+      rect:
+        serializedVersion: 2
+        x: 4161
+        y: 4039
+        width: 149
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721c706157351d500800000000000000
+      internalID: 419208002668052775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_10"
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 3956
+        width: 149
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d67249a09edee340800000000000000
+      internalID: 4895094557894670041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_11"
+      rect:
+        serializedVersion: 2
+        x: 4161
+        y: 3956
+        width: 149
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcc2586731a72e90800000000000000
+      internalID: -7050489432279692046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_12"
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 3871
+        width: 149
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d4793d8dad02f40800000000000000
+      internalID: 5701797753048747279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_13"
+      rect:
+        serializedVersion: 2
+        x: 4161
+        y: 3871
+        width: 149
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7053ff2c8d6514e00800000000000000
+      internalID: 1027197679001613575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_14"
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 3871
+        width: 149
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b88e237d35fd4c0800000000000000
+      internalID: -4260594538732025013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_15"
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 3785
+        width: 149
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3501a035b3659ace0800000000000000
+      internalID: -1393487796898230189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_16"
+      rect:
+        serializedVersion: 2
+        x: 4161
+        y: 3785
+        width: 149
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45ef4b4e35b1eb70800000000000000
+      internalID: 8926615215581160780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_17"
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 3785
+        width: 149
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a8ff1b8b4015520800000000000000
+      internalID: 2688935643823704723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_18"
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 3095
+        width: 446
+        height: 434
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ec82b1bd4010ad0800000000000000
+      internalID: -2737901759364542821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_19"
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 3097
+        width: 368
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cae74cf3529f530800000000000000
+      internalID: 3889180709020937231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_20"
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 3095
+        width: 449
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764ab767636be4400800000000000000
+      internalID: 310385769367446631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_21"
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 3095
+        width: 254
+        height: 334
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b4fd138a88dbe80800000000000000
+      internalID: -8161216693752870137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_22"
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 3226
+        width: 161
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe6c04747c4a4900800000000000000
+      internalID: 669431557664829168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_23"
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 3097
+        width: 371
+        height: 332
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4282e2afbf124dc10800000000000000
+      internalID: 2077322694242478116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_24"
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2303
+        width: 410
+        height: 423
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7ecd28881130200800000000000000
+      internalID: 144978891014727646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_25"
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 2303
+        width: 411
+        height: 457
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aedb6c2e8850e660800000000000000
+      internalID: 7413022354305703592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_26"
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 2303
+        width: 397
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0f66624a02e75b0800000000000000
+      internalID: -5368817816388046679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_28"
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 2303
+        width: 332
+        height: 332
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e98087eb2c4f3c0800000000000000
+      internalID: -4326619218682798436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_29"
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 2304
+        width: 442
+        height: 302
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2498314345bdc280800000000000000
+      internalID: -9021355178091572181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_30"
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1581
+        width: 502
+        height: 322
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5950ef460378796f0800000000000000
+      internalID: -677924576973421163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_31"
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1818
+        width: 420
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6cc47e3323f3bf0800000000000000
+      internalID: -342499848151578944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_32"
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 1808
+        width: 139
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e40721dc9d993ac0800000000000000
+      internalID: -3874892707526146843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_33"
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 1808
+        width: 137
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bf75c24c6fb3960800000000000000
+      internalID: 7582925720026348332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_34"
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 1581
+        width: 400
+        height: 476
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7842b67f6edcae570800000000000000
+      internalID: 8496830038865028231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_35"
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 1581
+        width: 478
+        height: 432
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8ce8356a7047f20800000000000000
+      internalID: 3419366428028881145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_36"
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1698
+        width: 420
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4a9f8f878dcbf00800000000000000
+      internalID: 1134019220275307756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_37"
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 1581
+        width: 139
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705ef1379febbbc10800000000000000
+      internalID: 2070458432294479111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_38"
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 1581
+        width: 137
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bdd0aba23a50960800000000000000
+      internalID: 7567634152771410782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_39"
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1581
+        width: 423
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0390dcdc83e7d7610800000000000000
+      internalID: 1620590223359281456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_40"
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 997
+        width: 168
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedddb7da79eb71d0800000000000000
+      internalID: -3351828783832375830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_41"
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 997
+        width: 169
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701b5594bea389c70800000000000000
+      internalID: 8977990639385161991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_42"
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 780
+        width: 498
+        height: 498
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63945f40e41811870800000000000000
+      internalID: 8651838531246049590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_43"
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 780
+        width: 588
+        height: 408
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044b31820cc714200800000000000000
+      internalID: 162548226309993536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_44"
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 868
+        width: 507
+        height: 456
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208f78d7209702810800000000000000
+      internalID: 1738522507767969794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_45"
+      rect:
+        serializedVersion: 2
+        x: 3251
+        y: 780
+        width: 510
+        height: 457
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6887c1a8396c9d0800000000000000
+      internalID: -2754351900698048846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_46"
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 780
+        width: 478
+        height: 348
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864b50d39643fb470800000000000000
+      internalID: 8412500255551370344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_47"
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 780
+        width: 168
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540e7737ff5033240800000000000000
+      internalID: 4770163025027522629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014media and video player icons_5805531_48"
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 780
+        width: 169
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc8d6825aa588440800000000000000
+      internalID: 4938296656806120694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
